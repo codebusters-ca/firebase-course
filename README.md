@@ -57,7 +57,7 @@ Congratulations! The setup process is now complete.
 
 ### What's Next?
 
-Move on to the next tutorial with `git checkout 02-create-read-update` and follow instructions in its Readme to start interacting with Firestore and testing your app.
+Move on to the next tutorial with `git checkout 02-firebase-configs` and follow instructions in its Readme to store your Firebase config securely in a `.env` file and quickly switch between projects.
 
 ## Contribute
 
