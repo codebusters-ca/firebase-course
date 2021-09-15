@@ -10,6 +10,8 @@ In the [first tutorial](https://github.com/codebusters-ca/firebase-course/tree/0
 
 Check out this branch with `git checkout 02-firebase-configs`.
 
+Install new dependencies with `npm install`.
+
 **Optional**: if you want to switch to a different project from the one you chose when running `firebase init`:
   - Get the list of all Firebase projects available to you: `firebase projects:list`
   - Copy the id of the project you want to switch to

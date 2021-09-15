@@ -2,7 +2,7 @@ const { writeFile } = require('fs');
 const { exec } = require('child_process');
 
 exec(' firebase apps:sdkconfig -j', (error, stdout, stderr) => {
-  if (stderr) console.log(stderr);
+  if (stderr) console.error(stderr);
 
   const data = JSON.parse(stdout);
   let envCopy = '';
