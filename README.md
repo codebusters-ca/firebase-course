@@ -1,4 +1,4 @@
-# Welcome to the Firebase Tutorial
+# 1 - Setting up a React And Firebase Project
 
 This tutorial is based on the **React and Firebase Starter💞** that we created. You can read more about it in its [readme](https://github.com/codebusters-ca/react-firebase-starter#react--firebase-starter).
 
