@@ -1,6 +1,6 @@
 # 2 - Storing Firebase Config in a `.env` File
 
-This tutorial is based on a React and Firebase Starter that we created. You can read more about it in its [readme](https://github.com/codebusters-ca/react-firebase-starter#react--firebase-starter).
+This tutorial is based on the **React and Firebase Starter💞** that we created. You can read more about it in its [readme](https://github.com/codebusters-ca/react-firebase-starter#react--firebase-starter).
 
 ## Prerequisites
 
