@@ -1,4 +1,4 @@
-# 1 - Setting Up a React and Firebase Project
+# Welcome to the Firebase Tutorial
 
 This tutorial is based on the **React and Firebase Starter💞** that we created. You can read more about it in its [readme](https://github.com/codebusters-ca/react-firebase-starter#react--firebase-starter).
 
@@ -16,7 +16,6 @@ You will need the following to use this starter:
 
 Clone this repo:
 ```git clone https://github.com/codebusters-ca/firebase-course.git```
-
 
 Install the dependencies:
 ```cd .\firebase-course\ && npm install```
