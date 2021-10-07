@@ -9,8 +9,9 @@ const Todo = ({ item }) => {
     updateTodo(
       item.id,
       { done: !checked },
-    );
-    setChecked(!checked);
+    )
+      .finally(() => setChecked(!checked));
+
   };
 
   const handleDelete = () => {
