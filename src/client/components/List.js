@@ -1,6 +1,7 @@
 import React from 'react';
 import { useCollection } from 'react-firebase-hooks/firestore';
 import { TODOS } from '../../firebase/index';
+
 import firebase from '../../firebase/clientApp';
 import { useUser } from './user-context';
 import Todo from './Todo';
@@ -34,6 +35,7 @@ const List = () => {
     {
       snapshotListenOptions: { includeMetadataChanges: true },
     },
+
   );
 
   return (

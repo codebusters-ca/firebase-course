@@ -11,6 +11,7 @@ const Todo = ({ item }) => {
       { done: !checked },
     )
       .finally(() => setChecked(!checked));
+
   };
 
   const handleDelete = () => {
